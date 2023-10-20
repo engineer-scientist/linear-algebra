@@ -1,3 +1,5 @@
+# Python program for multiplying two matrices, using neither matrix multiplication operator '@', nor NumPy: 
+
 print("Enter the number of rows in the first matrix: ")
 p = int(input()) 
 while p <= 0: 
